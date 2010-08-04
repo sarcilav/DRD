@@ -1,0 +1,149 @@
+0:
+ color: cero
+ gap: cero
+
+1:
+ color: red
+ gap: 1-12
+
+2:
+ color: black
+ gap: 1-12
+
+3:
+ color: red
+ gap: 1-12 
+
+4:
+ color: black
+ gap: 1-12
+
+5:
+ color: red
+ gap: 1-12
+
+6:
+ color: black
+ gap: 1-12
+
+7:
+ color: red
+ gap: 1-12
+
+8:
+ color: black
+ gap: 1-12
+
+9:
+ color: red
+ gap: 1-12
+
+10:
+ color: black
+ gap: 1-12
+
+11:
+ color: black
+ gap: 1-12
+
+12:
+ color: red
+ gap: 1-12
+
+13:
+ color: black
+ gap: 13-24
+
+14:
+ color: red
+ gap: 13-24
+
+15:
+ color: black
+ gap: 13-24
+
+16:
+ color: red
+ gap: 13-24
+
+17:
+ color: black
+ gap: 13-24
+
+18:
+ color: red
+ gap: 13-24
+
+19:
+ color: red
+ gap: 13-24
+
+20:
+ color: black
+ gap: 13-24
+
+21:
+ color: red
+ gap: 13-24
+
+22:
+ color: black
+ gap: 13-24
+
+23:
+ color: red
+ gap: 13-24
+
+24:
+ color: black
+ gap: 13-24
+
+25:
+ color: red
+ gap: 25-36
+
+26:
+ color: black
+ gap: 25-36
+
+27:
+ color: red
+ gap: 25-36
+
+28:
+ color: black
+ gap: 25-36
+
+29:
+ color: black
+ gap: 25-36
+
+30:
+ color: red
+ gap: 25-36
+
+31:
+ color: black
+ gap: 25-36
+
+32:
+ color: red
+ gap: 25-36
+
+33:
+ color: black
+ gap: 25-36
+
+34:
+ color: red
+ gap: 25-36
+
+35:
+ color: black
+ gap: 25-36
+
+36:
+ color: red
+ gap: 25-36
+
+size: 36	
