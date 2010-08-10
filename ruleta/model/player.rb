@@ -14,7 +14,7 @@ class Player
   # if type = gap
   #   "1-12" | "13-24" | "25-36"
   # return can you place?
-  def self.place_beat(croupier, money, thing, type = "number")
+  def place_beat(croupier, money, thing, type = "number")
     if @money >= money
       @money -= money
       @beats.push croupier.recv_beat(money,type,thing, self)
@@ -24,7 +24,7 @@ class Player
     end
   end
   # return amount of money you win!!!
-  def self.recv_money(money)
+  def recv_money(money)
     @money += money
     return money
   end

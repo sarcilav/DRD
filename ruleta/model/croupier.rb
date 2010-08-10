@@ -12,7 +12,7 @@ class Croupier
   #   [0,36] one number
   # if type = gap
   #   "1-12" | "13-24" | "25-36"
-  def self.recv_beat(money,type,thing,player)
+  def recv_beat(money,type,thing,player)
     if type == "color"
       new_money = money/18.0
     elsif type == "gap"
@@ -33,12 +33,12 @@ class Croupier
     beats_player
   end
 
-  def self.spin
+  def spin
     @table.history.push @table.roullete[rand(@table.roullete.size())]
     @table.history.last
   end
   
-  def self.pay_winners(winner_roullete_item)
+  def pay_winners(winner_roullete_item)
     for i in @beats
       if winner_roullete_item == i.roulleteItem
         i.player.recv_money(i.money * 36)
@@ -46,7 +46,7 @@ class Croupier
     end
   end
 
-  def self.clean_beats
+  def clean_beats
     @beats=[]
   end
 end
