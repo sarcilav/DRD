@@ -16,10 +16,10 @@ class Game
         puts "username already taken, please re-enter"
         username = STDIN.gets.chomp
       end
-      puts "Choose your table [0-#{@club.tables_count-1}],#{username}"
+      puts "Choose your table [0-#{@club.tables_count}],#{username}"
       table_selected = STDIN.gets.to_i
       while 0 > table_selected and table_selected >= @club.tables_count
-        puts "Please select a table between [0-#{@club.tables_count-1}]"
+        puts "Please select a table between [0-#{@club.tables_count}]"
         table_selected = STDIN.gets.to_i
       end
       @tables_selecteds[username] = table_selected
