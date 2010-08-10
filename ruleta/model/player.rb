@@ -15,7 +15,7 @@ class Player
   #   "1-12" | "13-24" | "25-36"
   # return can you place?
   def self.place_beat(croupier, money, thing, type = "number")
-    if @money > money
+    if @money >= money
       @money -= money
       @beats.push croupier.recv_beat(money,type,thing, self)
       return true
