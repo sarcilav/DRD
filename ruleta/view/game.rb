@@ -18,7 +18,7 @@ class Game
       end
       puts "Choose your table [0-#{@club.tables_count}],#{username}"
       table_selected = STDIN.gets.to_i
-      while 0 > table_selected and table_selected >= @club.tables_count
+      while 0 > table_selected and table_selected > @club.tables_count
         puts "Please select a table between [0-#{@club.tables_count}]"
         table_selected = STDIN.gets.to_i
       end
