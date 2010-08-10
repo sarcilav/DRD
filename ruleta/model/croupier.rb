@@ -25,7 +25,7 @@ class Croupier
     beats_player = []
     @table.roullete.each do |rItem|
       if eval("rItem.#{type}") == thing
-        beat = Beat.new(user, new_money, rItem)
+        beat = Beat.new(player, new_money, rItem)
         @beats.push beat
         beats_player.push beat
       end

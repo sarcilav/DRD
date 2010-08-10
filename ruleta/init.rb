@@ -27,10 +27,10 @@ while players_count < 0
 end
 for i in 1..players_count
   puts "Choose username for player #{i}: "
-  username = STDIN.gets
+  username = STDIN.gets.chomp
   while club.enter_player(username) == false
     puts "username already taken, please re-enter"
-    username = STDIN.gets
+    username = STDIN.gets.chomp
   end
 end
 
@@ -47,18 +47,17 @@ croupier = club.croupiers[table_selected]
 puts "you can beat for one number between [0-36]\nto a color 'black' or 'red'\nto a gap '1-12' '13-24' '25-36'\nplease specific the type number, color  or gap\n"
 while true
   club.players.each_pair do |index,player|
-    puts "Your beat's type"
-    type = STDIN.gets
+    puts "Your beat's type #{index}"
+    type = STDIN.gets.chomp
     puts "to"
-    thing = STDIN.gets
+    thing = STDIN.gets.chomp
     if type == "number"
       thing = thing.to_i
     end
     puts "how many?"
-    puts player.money
-    money = STDIN.gets
-    if player.place_beat(croupier,money,thing,type) == true
-      puts "You don't that money :p, see you next time"
+    money = STDIN.gets.to_i
+    if player.place_beat(croupier,money,thing,type) == false
+      puts "You don't have that money :p, see you next time"
     end
   end
   winner_item = croupier.spin
