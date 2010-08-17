@@ -1,4 +1,24 @@
+require 'socket'
 require 'yaml'
+class Server
+  attr_accesible :server, :tables_selecteds, :club
+  def initialize(config,casino)
+    @server = TCPServer.open(config["port"])
+    @club = casino
+    @tables_selecteds = {}
+  end
+  
+  def start
+    loop {
+      Thread.start(@server.accept) do |client|
+        request = YAML::load client.gets
+        # request must have userid, type, what, amount, table
+        client.close
+      end
+    }
+  end
+end
+
 
 APP_ROOT = File.dirname(__FILE__)
 # Model include

@@ -10,7 +10,7 @@ class Game
       players_count = STDIN.gets.to_i
     end
     for i in 1..players_count
-      puts "Choose username for player #{i}: "
+\      puts "Choose username for player #{i}: "
       username = STDIN.gets.chomp
       while @club.enter_player(username) == false
         puts "username already taken, please re-enter"
