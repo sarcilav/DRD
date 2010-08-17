@@ -13,11 +13,7 @@ class Club
   end
   
   def enter_player(user_name)
-    if @players[user_name].nil?
-      @players[user_name] = Player.new(user_name)
-      return true
-    end
-    return false
+    @players[user_name] ||= Player.new(user_name)
   end
-    
+  
 end

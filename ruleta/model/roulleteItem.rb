@@ -7,6 +7,6 @@ class RoulleteItem
     @gap = settings["gap"]
   end
   def to_s
-    "number: #{@number} color: #{@color} gap: #{@gap}"
+    "number= #{@number} color= #{@color} gap= #{@gap}"
   end
 end
