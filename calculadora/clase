@@ -1,0 +1,343 @@
+Script started on Tue 17 Aug 2010 11:12:19 AM COT
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m [K[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m xm[K[Kmak
+make                         make_method                  makestrs                     
+make-memtest86+-boot-floppy  make-ssl-cert                mako-render                  
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m mak
+make                         make_method                  makestrs                     
+make-memtest86+-boot-floppy  make-ssl-cert                mako-render                  
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make
+make                         make-memtest86+-boot-floppy  make_method                  make-ssl-cert                makestrs
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make
+make                         make-memtest86+-boot-floppy  make_method                  make-ssl-cert                makestrs
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make
+make                         make-memtest86+-boot-floppy  make_method                  make-ssl-cert                makestrs
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make
+make                         make-memtest86+-boot-floppy  make_method                  make-ssl-cert                makestrs
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make 
+GNUmakefile  makefile     Makefile     
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make Makefile 
+GNUmakefile  makefile     Makefile     
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make Makefile 
+GNUmakefile  makefile     Makefile     
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make Makefile 
+GNUmakefile  makefile     Makefile     
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make Makefile 
+GNUmakefile  makefile     Makefile     
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:12 AM [01;33m]([01;36m1[01;33m)[01;36m$[00m make Makefile [K
+make: *** No rule to make target `Makefile'.  Stop.
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m2[01;33m)[01;36m$[00m make Makefile.calc
+make: Nothing to be done for `Makefile.calc'.
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m3[01;33m)[01;36m$[00m make all
+make: *** No rule to make target `all'.  Stop.
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m4[01;33m)[01;36m$[00m ls
+calc_client.c  calc_clnt.c  calc.h  calc_server.c  calc_svc.c  calc.x  calc_xdr.c  clase  Makefile.calc  [0m[01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m5[01;33m)[01;36m$[00m ln -s Makefile.calc Makefile.calc [K[K[K[K[K[K
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m6[01;33m)[01;36m$[00m make
+cc -g    -c -o calc_clnt.o calc_clnt.c
+cc -g    -c -o calc_client.o calc_client.c
+cc -g    -c -o calc_xdr.o calc_xdr.c
+cc -g     -o calc_client  calc_clnt.o calc_client.o calc_xdr.o -lnsl 
+cc -g    -c -o calc_svc.o calc_svc.c
+cc -g    -c -o calc_server.o calc_server.c
+cc -g     -o calc_server  calc_svc.o calc_server.o calc_xdr.o -lnsl
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m7[01;33m)[01;36m$[00m ls
+[0m[01;32mcalc_client[0m    calc_client.o  calc_clnt.o  [01;32mcalc_server[0m    calc_server.o  calc_svc.o  calc_xdr.c  clase     Makefile.calc
+calc_client.c  calc_clnt.c    calc.h       calc_server.c  calc_svc.c     calc.x      calc_xdr.o  [01;36mMakefile[0m  [01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m8[01;33m)[01;36m$[00m ./calc_server 
+Cannot register service: RPC: Unable to receive; errno = Connection refused
+unable to register (CALCPROG, CALCVER, udp).]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m9[01;33m)[01;36m$[00m ./calc_server 8080
+Cannot register service: RPC: Unable to receive; errno = Connection refused
+unable to register (CALCPROG, CALCVER, udp).]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:13 AM [01;33m]([01;36m10[01;33m)[01;36m$[00m ./calc_server 8080[K[K[K[K
+Cannot register service: RPC: Unable to receive; errno = Connection refused
+unable to register (CALCPROG, CALCVER, udp).]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:16 AM [01;33m]([01;36m11[01;33m)[01;36m$[00m ./calc_client 
+usage: ./calc_client server_host
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:16 AM [01;33m]([01;36m12[01;33m)[01;36m$[00m ./calc_client localhost
+localhost: RPC: Port mapper failure - RPC: Unable to receive
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:16 AM [01;33m]([01;36m13[01;33m)[01;36m$[00m ./calc_client localhost[K
+usage: ./calc_client server_host
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:16 AM [01;33m]([01;36m14[01;33m)[01;36m$[00m ./calc_client localhost[Kserver[Clocalhost
+Cannot register service: RPC: Unable to receive; errno = Connection refused
+unable to register (CALCPROG, CALCVER, udp).]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:16 AM [01;33m]([01;36m15[01;33m)[01;36m$[00m [K[01;33m[ [01;36m11:16 AM [01;33m]([01;36m15[01;33m)[01;36m$[00m ./calc_server 
+Floating point exception
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:24 AM [01;33m]([01;36m16[01;33m)[01;36m$[00m ./calc_server 
+^C
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:27 AM [01;33m]([01;36m17[01;33m)[01;36m$[00m make
+cc -g    -c -o calc_clnt.o calc_clnt.c
+cc -g    -c -o calc_client.o calc_client.c
+calc_client.c: In function ‘calcprog_1’:
+calc_client.c:15: error: ‘in’ has no member named ‘c’
+make: *** [calc_client.o] Error 1
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:28 AM [01;33m]([01;36m18[01;33m)[01;36m$[00m make
+cc -g    -c -o calc_clnt.o calc_clnt.c
+cc -g    -c -o calc_client.o calc_client.c
+rpcgen  calc.x
+cc -g    -c -o calc_xdr.o calc_xdr.c
+cc -g     -o calc_client  calc_clnt.o calc_client.o calc_xdr.o -lnsl 
+calc_client.o: In function `calcprog_1':
+/home/sebastian/projects/topicos-telematica/calculadora/calc_client.c:49: undefined reference to `print'
+collect2: ld returned 1 exit status
+make: *** [calc_client] Error 1
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:29 AM [01;33m]([01;36m19[01;33m)[01;36m$[00m make
+cc -g    -c -o calc_clnt.o calc_clnt.c
+cc -g    -c -o calc_client.o calc_client.c
+rpcgen  calc.x
+cc -g    -c -o calc_xdr.o calc_xdr.c
+cc -g     -o calc_client  calc_clnt.o calc_client.o calc_xdr.o -lnsl 
+calc_client.o: In function `calcprog_1':
+/home/sebastian/projects/topicos-telematica/calculadora/calc_client.c:49: undefined reference to `print'
+collect2: ld returned 1 exit status
+make: *** [calc_client] Error 1
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:30 AM [01;33m]([01;36m20[01;33m)[01;36m$[00m make
+cc -g    -c -o calc_clnt.o calc_clnt.c
+cc -g    -c -o calc_client.o calc_client.c
+rpcgen  calc.x
+cc -g    -c -o calc_xdr.o calc_xdr.c
+cc -g     -o calc_client  calc_clnt.o calc_client.o calc_xdr.o -lnsl 
+cc -g    -c -o calc_svc.o calc_svc.c
+cc -g    -c -o calc_server.o calc_server.c
+cc: calc_server.c: No such file or directory
+cc: no input files
+make: *** [calc_server.o] Error 1
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:30 AM [01;33m]([01;36m21[01;33m)[01;36m$[00m ls
+[0m[01;32mcalc_client[0m    calc_client.o  calc_clnt.o  calc_svc.c  calc.x      calc_xdr.o  [01;36mMakefile[0m       [01;34mruby[0m
+calc_client.c  calc_clnt.c    calc.h       calc_svc.o  calc_xdr.c  clase       Makefile.calc
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:30 AM [01;33m]([01;36m22[01;33m)[01;36m$[00m ls
+[0m[01;32mcalc_client[0m    calc_client.o  calc_clnt.o  calc_svc.c  calc.x      calc_xdr.o  [01;36mMakefile[0m       [01;34mruby[0m
+calc_client.c  calc_clnt.c    calc.h       calc_svc.o  calc_xdr.c  clase       Makefile.calc
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:30 AM [01;33m]([01;36m23[01;33m)[01;36m$[00m [4@(reverse-i-search)`':[C[15@r': ./calc_serverp': rpcgen -a calc.x[6P[01;33m[ [01;36m11:30 AM [01;33m]([01;36m23[01;33m)[01;36m$[00m[01;33m[ [01;36m11:30 AM [01;33m]([01;36m23[01;33m)[01;36m$[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+file `calc_client.c' already exists and may be overwritten
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m24[01;33m)[01;36m$[00m ls
+[0m[01;32mcalc_client[0m  calc_client.c  calc_client.o  calc_clnt.o  calc_svc.o  calc.x  calc_xdr.o  clase  [01;36mMakefile[0m  Makefile.calc  [01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m25[01;33m)[01;36m$[00m rm calc_client
+calc_client    calc_client.c  calc_client.o  
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m25[01;33m)[01;36m$[00m rm calc_client.c 
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m26[01;33m)[01;36m$[00m make clean
+rm -f core calc.h calc_xdr.c calc_clnt.c calc_svc.c calc_client.c calc_server.c  calc_clnt.o calc_client.o calc_xdr.o  calc_svc.o calc_server.o calc_xdr.o calc_client calc_server
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m27[01;33m)[01;36m$[00m ls
+calc.x  clase  [0m[01;36mMakefile[0m  Makefile.calc  [01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m28[01;33m)[01;36m$[00m rm m[KMakefile
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m29[01;33m)[01;36m$[00m ls
+calc.x  clase  Makefile.calc  [0m[01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m30[01;33m)[01;36m$[00m lsrm Makefilels[Kmake cleanrm calc_client.c ls[Krpcgen -a calc.xls[Krpcgen -a calc.x
+file `Makefile.calc' already exists and may be overwritten
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m31[01;33m)[01;36m$[00m ls
+calc.x  clase  Makefile.calc  [0m[01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m32[01;33m)[01;36m$[00m rm Makefile.calc 
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:31 AM [01;33m]([01;36m33[01;33m)[01;36m$[00m rm Makefile.calc ls[Krpcgen -a calc.x
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:32 AM [01;33m]([01;36m34[01;33m)[01;36m$[00m ls
+calc_client.c  calc_clnt.c  calc.h  calc_server.c  calc_svc.c  calc.x  calc_xdr.c  clase  Makefile.calc  [0m[01;34mruby[0m
+[m]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:32 AM [01;33m]([01;36m35[01;33m)[01;36m$[00m cat calc_client.c 
+/*
+ * This is sample code generated by rpcgen.
+ * These are only templates and you can use them
+ * as a guideline for developing your own functions.
+ */
+
+#include "calc.h"
+
+
+void
+calcprog_1(char *host)
+{
+	CLIENT *clnt;
+	int  *result_1;
+	in  sumar_1_arg;
+	int  *result_2;
+	in  restar_1_arg;
+	int  *result_3;
+	in  multiplicar_1_arg;
+	int  *result_4;
+	in  dividir_1_arg;
+
+#ifndef	DEBUG
+	clnt = clnt_create (host, CALCPROG, CALCVER, "udp");
+	if (clnt == NULL) {
+		clnt_pcreateerror (host);
+		exit (1);
+	}
+#endif	/* DEBUG */
+
+	result_1 = sumar_1(&sumar_1_arg, clnt);
+	if (result_1 == (int *) NULL) {
+		clnt_perror (clnt, "call failed");
+	}
+	result_2 = restar_1(&restar_1_arg, clnt);
+	if (result_2 == (int *) NULL) {
+		clnt_perror (clnt, "call failed");
+	}
+	result_3 = multiplicar_1(&multiplicar_1_arg, clnt);
+	if (result_3 == (int *) NULL) {
+		clnt_perror (clnt, "call failed");
+	}
+	result_4 = dividir_1(&dividir_1_arg, clnt);
+	if (result_4 == (int *) NULL) {
+		clnt_perror (clnt, "call failed");
+	}
+#ifndef	DEBUG
+	clnt_destroy (clnt);
+#endif	 /* DEBUG */
+}
+
+
+int
+main (int argc, char *argv[])
+{
+	char *host;
+
+	if (argc < 2) {
+		printf ("usage: %s server_host\n", argv[0]);
+		exit (1);
+	}
+	host = argv[1];
+	calcprog_1 (host);
+exit (0);
+}
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:32 AM [01;33m]([01;36m36[01;33m)[01;36m$[00m cat calc_cl
+calc_client.c   calc_client.c~  calc_clnt.c     
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:32 AM [01;33m]([01;36m36[01;33m)[01;36m$[00m cat calc_client.c
+/*
+ * This is sample code generated by rpcgen.
+ * These are only templates and you can use them
+ * as a guideline for developing your own functions.
+ */
+
+#include "calc.h"
+
+
+void
+calcprog_1(char *host)
+{
+  CLIENT *clnt;
+  in sample;
+  sample.a = 10, sample.b = 20;
+  int  *result_1;
+  in  sumar_1_arg       = sample;
+  int  *result_2;
+  in restar_1_arg       = sample;
+  int  *result_3;
+  in  multiplicar_1_arg = sample;
+  int  *result_4;
+  in  dividir_1_arg     = sample;
+
+#ifndef DEBUG
+  clnt = clnt_create (host, CALCPROG, CALCVER, "udp");
+  if (clnt == NULL) {
+    clnt_pcreateerror (host);
+    exit (1);
+  }
+#endif  /* DEBUG */
+
+  result_1 = sumar_1(&sumar_1_arg, clnt);
+  if (result_1 == (int *) NULL) {
+    clnt_perror (clnt, "call failed");
+  }
+  result_2 = restar_1(&restar_1_arg, clnt);
+  if (result_2 == (int *) NULL) {
+    clnt_perror (clnt, "call failed");
+  }
+  result_3 = multiplicar_1(&multiplicar_1_arg, clnt);
+  if (result_3 == (int *) NULL) {
+    clnt_perror (clnt, "call failed");
+  }
+  result_4 = dividir_1(&dividir_1_arg, clnt);
+  if (result_4 == (int *) NULL) {
+    clnt_perror (clnt, "call failed");
+  }
+  printf("Sumar = %d, Restar = %d, Multiplicar =%d, Dividir =%d\n",
+        *result_1, *result_2, *result_3, *result_4);
+#ifndef DEBUG
+  clnt_destroy (clnt);
+#endif   /* DEBUG */
+}
+
+
+int
+main (int argc, char *argv[])
+{
+  char *host;
+
+  if (argc < 2) {
+    printf ("usage: %s server_host\n", argv[0]);
+    exit (1);
+  }
+  host = argv[1];
+  calcprog_1 (host);
+  exit (0);
+}
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:32 AM [01;33m]([01;36m37[01;33m)[01;36m$[00m make
+make: *** No targets specified and no makefile found.  Stop.
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:33 AM [01;33m]([01;36m38[01;33m)[01;36m$[00m make -f Makefile.calc 
+cc -g    -c -o calc_clnt.o calc_clnt.c
+cc -g    -c -o calc_client.o calc_client.c
+cc -g    -c -o calc_xdr.o calc_xdr.c
+cc -g     -o calc_client  calc_clnt.o calc_client.o calc_xdr.o -lnsl 
+cc -g    -c -o calc_svc.o calc_svc.c
+cc -g    -c -o calc_server.o calc_server.c
+cc -g     -o calc_server  calc_svc.o calc_server.o calc_xdr.o -lnsl
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:33 AM [01;33m]([01;36m39[01;33m)[01;36m$[00m ./calc_server 
+^C
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:38 AM [01;33m]([01;36m40[01;33m)[01;36m$[00m ./calc_server 
+        bbvbvcvbvbv^C
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:42 AM [01;33m]([01;36m41[01;33m)[01;36m$[00m ./calc_server 
+^C
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:43 AM [01;33m]([01;36m42[01;33m)[01;36m$[00m ./calc_server 
+^C
+]0;sebastian@wormwood: ~/projects/topicos-telematica/calculadora[01;32msebastian[01;33m@[01;32mwormwood[05;36m Jobs:[01;36m0 [01;33m[[01;34m...topicos-telematica/calculadora[01;33m] [01;31mgit repo[00m
+[01;33m[ [01;36m11:48 AM [01;33m]([01;36m43[01;33m)[01;36m$[00m exit
+
+Script done on Tue 17 Aug 2010 11:48:55 AM COT
