@@ -1,9 +1,9 @@
 class Player
-  attr_accessor :user_name, :money, :beats
-  def initialize(user_name,money = 1000)
+  attr_accessor :user_name, :money,:uri
+  def initialize(user_name,uri,money = 1000)
     @user_name = user_name
     @money = money
-    @beats = []
+    @uri = uri
   end
   # type must be (color,gap,number)
   # thing must be
@@ -17,8 +17,7 @@ class Player
   def place_beat(croupier, money, thing, type = "number")
     if @money >= money
       @money -= money
-      @beats.push croupier.recv_beat(money,type,thing, self)
-      return true
+      return croupier.recv_beat(money,type,thing, self)
     else
       return false
     end
@@ -26,6 +25,12 @@ class Player
   # return amount of money you win!!!
   def recv_money(money)
     @money += money
+    client = DRbObject.new nil, @uri
+    client.recv_money_status(@money)
     return money
+  end
+  def notify_winner(winner_item)
+    client = DRbObject.new nil, @uri
+    client.recv_winner_item(winner_item)
   end
 end
