@@ -25,12 +25,10 @@ class Player
   # return amount of money you win!!!
   def recv_money(money)
     @money += money
-    client = DRbObject.new nil, @uri
-    client.recv_money_status(@money)
     return money
   end
   def notify_winner(winner_item)
     client = DRbObject.new nil, @uri
-    client.recv_winner_item(winner_item)
+    client.recv_winner_item(winner_item.to_s)
   end
 end

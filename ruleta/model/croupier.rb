@@ -43,10 +43,28 @@ class Croupier
         sleep(30)
         @can_beat = 0
         winner = spin
-        for i in @beats
-          i.player.notify_winner(winner)
+        players = {}
+        @beats.each do |beat|
+          if players[beat.player].nil?
+            beat.player.notify_winner(winner)
+            players[beat.player] = true
+          end
         end
         pay_winners(winner)
+        tmp = {}
+        @beats.each do |beat|
+          if tmp[beat.player].nil?
+            tmp[beat.player] = true
+            puts beat.player.uri
+            puts beat.player.money
+            begin
+              client = DRbObject.new nil, beat.player.uri
+              client.recv_money_status(beat.player.money)
+            rescue
+              raise Exception.new("problemas")
+            end
+          end
+        end
         clean_beats
       end
     end
